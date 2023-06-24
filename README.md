@@ -19,9 +19,9 @@ To download Dataset you can use this link: [Click Here](https://catalogue.data.g
 all scripts used to train and test models have been provided.
 
 <br/>
-\
-\
-\
+
+
+
 **Citation Request:** 
 
 Niyogisubizo J, Murwanashyaka E, Nziyumva E. A Comparative Study on Machine Learning-based Approaches for Improving Traffic Accident Severity Prediction. Int. J. Eng. Res. Technol.(Ahmedabad). 2021;10(10). https://doi.org/10.17577/IJERTV10IS100103.
